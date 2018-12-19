@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcbd298b-94aa-4342-96f7-6245e1c374cc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.js</find>
+      <find>assets/</find>
+      <find>src</find>
+      <find>http://maps.google.com/maps/api</find>
+      <find>.css</find>
+      <find>vignette</find>
+      <find>poly_bg.jpg</find>
+      <find>poly_bg</find>
+      <find>.jpg</find>
+      <find>poly</find>
+      <find>particles/</find>
+      <find>garcia</find>
+      <find>particles</find>
+      <find>particleDBSavePath</find>
+      <find>particleDBLoadPath</find>
+      <find>GA</find>
+      <find>img/particles</find>
+      <find>presets</find>
+      <find>THE STUDIO</find>
+      <find>jam3</find>
+      <find>http://www.jam3.com/</find>
+      <find>www.jam3.com</find>
+      <find>favicon</find>
+      <find>uniquck</find>
+      <find>http://www.jam3.com</find>
+      <find>Ai</find>
+      <find>Sign Up</find>
+      <find>sign up</find>
+      <find>Jam3.com</find>
+      <find>Jam3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>images</replace>
+      <replace>images/</replace>
+      <replace>../</replace>
+      <replace>https://uniqks.com/</replace>
+      <replace>uniqks.com</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/particles/garcia_6.json" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/Global.js" />
+        <option value="$PROJECT_DIR$/js/particle_release.js" />
+        <option value="$PROJECT_DIR$/js/Particle.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jam3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jam3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jam3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jam3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WorkData\416___\htmls\jam3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WorkData\416___\htmls\jam3\img\particles\presets" />
+      <recent name="F:\WorkData\416___\htmls\jam3\img\particles\textures" />
+      <recent name="F:\WorkData\416___\htmls\jam3\js\vendor" />
+      <recent name="F:\WorkData\416___\htmls\jam3\js\vendor\require" />
+      <recent name="F:\WorkData\416___\htmls\jam3\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcbd298b-94aa-4342-96f7-6245e1c374cc" name="Default" comment="" />
+      <created>1515074152386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515074152386</updated>
+      <workItem from="1515074154062" duration="10459000" />
+      <workItem from="1515084997969" duration="783000" />
+      <workItem from="1515117537006" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11439000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/2014/04/emmy.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/digi.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/Denon-Feature-Image-300x170.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/davey.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/commart.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/clio1.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/banff1.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/appliedarts3.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/adcc2.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/04/adage1.png" />
+    <entry file="file://$PROJECT_DIR$/images/2014/05/feature-thumb-300x170.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2014/05/jam3_fb-300x157.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2014/07/SevenSins-Feature-Image-300x170.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2014/11/feature-image-300x170.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2014/11/SonataSpotted-Feature-300x170.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2015/07/02_haluk-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2015/07/Sakura-featureimage-300x170.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2015/03/music_selfie_storytelling_thumbnail-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2015/08/VideoImage-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2015/10/mtvthumb-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2015/11/dekstop_00-300x192.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2016/03/WellsFargo-FeatureImage-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2016/04/featured-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2016/06/featuredMustang-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2016/06/ID2_feature-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2016/06/Screen-Shot-2016-06-30-at-11.28.01-AM-300x191.png" />
+    <entry file="file://$PROJECT_DIR$/images/2016/06/Thumbnail-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2016/08/Thumbnail-PAC-3-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/02/thumbnail-300x169.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2017/04/cassiesblack.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/04/thumbnail-b71-1-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/04/thumbnail-JW-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/06/thumbnail-1-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/06/thumbnail-2-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/06/thumbnail-5-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/07/thumbnail-300x170.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/08/invisible-highway-1.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/08/invisible-highway-1-640x426.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/08/jam3-pens.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2017/08/jam3-pens-640x427.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2017/08/jam3-pens-1536x1024.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2017/09/dunkurk.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/09/dunkurk-640x494.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/09/MTV.png" />
+    <entry file="file://$PROJECT_DIR$/images/2017/09/MTV-640x601.png" />
+    <entry file="file://$PROJECT_DIR$/js/particle_release.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20305" column="115" lean-forward="false" selection-start-line="20305" selection-start-column="111" selection-end-line="20305" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Particle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="50" column="61" lean-forward="false" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Approach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="155" column="181" lean-forward="false" selection-start-line="155" selection-start-column="177" selection-end-line="155" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="215" column="8" lean-forward="false" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
